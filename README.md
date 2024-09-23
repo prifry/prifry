@@ -1,6 +1,6 @@
 -👋 Hi, I’m @prifry!
 
--👀 I would like to conquer my first role as a software developer and building impactful projects.
+-👀 I would like to conquer my first role as a software developer and build impactful projects.
 
 -🌱 I recently completed my Bachelor’s in Software Development, and I'm eager to apply my skills to real-world challenges.
 
