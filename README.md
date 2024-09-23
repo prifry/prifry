@@ -1,8 +1,8 @@
 -👋 Hi, I’m @prifry!
 
--👀 I’m passionate about conquering my first role as a software developer and building impactful projects.
+-👀 I would like to conquer my first role as a software developer and building impactful projects.
 
--🌱 Currently pursuing my Bachelor’s in Computer Information Science and continuously expanding my coding and problem-solving skills.
+-🌱 I recently completed my Bachelor’s in Software Development, and I'm eager to apply my skills to real-world challenges.
 
 -💞️ I’m eager to collaborate on innovative tech projects, open-source contributions, or anything that helps me grow as a developer.
 
